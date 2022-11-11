@@ -1,0 +1,17 @@
+{
+    "name": "calvinkent/ipt10-strapi-ecommerce",
+    "autoload": {
+        "psr-4": {
+            "Calvinkent\\Ipt10StrapiEcommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "clvnknt",
+            "email": "p.calvinkent@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
